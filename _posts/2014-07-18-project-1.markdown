@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2025-06-06
 img: sql_3.jpg
-thumbnail: sql_3_thumbnail.jpg
+thumbnail: sql_3_thumbnail_500x500.jpg
 alt: image-alt
 project-date: June 2025
 project-desc: View Project
