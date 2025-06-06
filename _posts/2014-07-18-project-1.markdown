@@ -1,15 +1,15 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: SQL
+subtitle: Adhoc Analysis
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+date: 2025-06-06
+img: sql_2.jpg
+thumbnail: sql_2.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-link: View [Project](https://github.com/madhuBayy/sql-adhoc-analysis)
+# client: Start Bootstrap
+# category: Web Development
+description: I designed and implemented advanced SQL queries, utilizing subqueries, nested queries, CTEs, and window functions to address a wide range of ad-hoc business intelligence needs. This provided management with timely and actionable data insights, enabling faster, more informed decision-making.
 
 ---
