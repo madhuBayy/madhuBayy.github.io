@@ -7,9 +7,9 @@ date: 2025-06-06
 img: sql_2.jpg
 thumbnail: sql_2.jpg
 alt: image-alt
-project-link: View [Project](https://github.com/madhuBayy/sql-adhoc-analysis)
-# client: Start Bootstrap
-# category: Web Development
+project-date: June 2025
+client: Start Bootstrap
+category: SQL Data Analysis
 description: I designed and implemented advanced SQL queries, utilizing subqueries, nested queries, CTEs, and window functions to address a wide range of ad-hoc business intelligence needs. This provided management with timely and actionable data insights, enabling faster, more informed decision-making.
 
 ---
