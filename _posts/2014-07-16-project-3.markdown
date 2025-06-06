@@ -8,6 +8,8 @@ img: AtliqO_thumbnail.png
 thumbnail: AtliqO_thumbnail.png
 alt: image-alt
 project-date: June 2025
+project-desc: View Project
+project-link: https://github.com/madhuBayy/sql-adhoc-analysis
 client: Start Bootstrap
 category: Excel Data Analysis
 description: I analyzed pre- and post-5G launch KPIs in Excel, using pivot tables and charts to highlight trends in user activity and revenue. This helped management identify areas for improvement and optimize their internet plans to recover growth.
