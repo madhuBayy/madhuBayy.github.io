@@ -4,8 +4,8 @@ subtitle: Performance Analysis
 layout: default
 modal-id: 3
 date: 2025-06-06
-img: AtliqO_thumbnail.png
-thumbnail: AtliqO_thumbnail.png
+img: AtliqO_image.png
+thumbnail: AtliqO_thumbnail.jpg
 alt: image-alt
 project-date: June 2025
 project-desc: View Project
