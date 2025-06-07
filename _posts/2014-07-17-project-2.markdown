@@ -4,12 +4,12 @@ subtitle: Financial Analysis
 layout: default
 modal-id: 2
 date: 2025-06-06
-img: pbi_2.png
-thumbnail: pbi_2.png
+img: PBI_image.PNG
+thumbnail: PBI_image_thumbnail.jpg
 alt: image-alt
 project-date: June 2025
 project-desc: View Project
-project-link: https://github.com/madhuBayy/sql-adhoc-analysis
+project-link: https://github.com/madhuBayy/Financial_Analysis_PBI
 client: Start Bootstrap
 category: Power BI Dashboard
 description: I developed an interactive Power BI dashboard that integrated global financial data, offering a clear view of P&L statements and performance across markets, products, and customers, driving more informed decision-making.
