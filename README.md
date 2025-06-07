@@ -1,30 +1,8 @@
-Agency Jekyll theme
-====================
+# 👩‍💻 Personal Portfolio Website
+This repository contains the source code for my personal portfolio website, hosted via GitHub Pages. The site highlights my professional background, technical skills, and a curated collection of data and analytics projects. It is designed to showcase my capabilities in Power BI, data visualization, business intelligence, and data storytelling. The portfolio serves as a central hub for recruiters, collaborators, and peers to explore my work and connect with me.
 
-Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
+---
 
-# How to use
+### Credits
 
-###Portfolio 
-
-Portfolio projects are in '/_posts'
-
-Images are in '/img/portfolio'
-
-###About
-
-Images are in '/img/about/'
-
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
-
-
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
-For more details, read [documentation](http://jekyllrb.com/)
+This project is based on [Jekyll Agency theme](https://github.com/y7kim/agency-jekyll-theme) by [y7kim](https://github.com/y7kim), licensed under the Apache License.
