@@ -1,15 +1,17 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Power BI
+subtitle: Financial Analysis
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+date: 2025-06-06
+img: PBI_image.PNG
+thumbnail: PBI_image_thumbnail.jpg
 alt: image-alt
-project-date: April 2014
+project-date: June 2025
+project-desc: View Project
+project-link: https://github.com/madhuBayy/Financial_Analysis_PBI
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: Power BI Dashboard
+description: I developed an interactive Power BI dashboard that integrated global financial data, offering a clear view of P&L statements and performance across markets, products, and customers, driving more informed decision-making.
 
 ---
