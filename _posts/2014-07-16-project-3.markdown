@@ -1,17 +1,17 @@
 ---
 title: Excel
-subtitle: Performance Analysis
+subtitle: Promotions Analysis
 layout: default
 modal-id: 3
 date: 2025-06-06
-img: AtliqO_image.png
-thumbnail: AtliqO_thumbnail.jpg
+img: Excel_project.png
+thumbnail: Excel_project_thumbnail.jpg
 alt: image-alt
 project-date: June 2025
 project-desc: View Project
-project-link: https://github.com/madhuBayy/AtliqO_Telecom_Dashboard
+project-link: https://github.com/madhuBayy/AtliqMart_festive_promotions
 client: Start Bootstrap
 category: Excel Data Analysis
-description: I analyzed pre- and post-5G launch KPIs in Excel, using pivot tables and charts to highlight trends in user activity and revenue. This helped management identify areas for improvement and optimize their internet plans to recover growth.
+description: I analyzed promotional campaigns data and promotions KPIs in Excel, using power query, power pivot, pivot tables and charts to highlight trends in user purchase patterns. This helped management identify areas for improvement and optimize their promotional plans to promote sales.
 
 ---
