@@ -12,6 +12,7 @@ project-desc: View Project
 project-link: https://github.com/madhuBayy/AtliqMart_festive_promotions
 client: Start Bootstrap
 category: Excel Data Analysis
+skills: Power Query, Power Pivot, Conditional Formatting, Pivot tables & charts
 description: I analyzed promotional campaigns data and promotions KPIs in Excel, using power query, power pivot, pivot tables and charts to highlight trends in user purchase patterns. This helped management identify areas for improvement and optimize their promotional plans to promote sales.
 
 ---

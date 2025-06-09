@@ -12,6 +12,7 @@ project-desc: View Project
 project-link: https://github.com/madhuBayy/Financial_Analysis_PBI
 client: Start Bootstrap
 category: Power BI Dashboard
+skills: Power BI Desktop, Power Query, Data Modeling, DAX, Data Visualization
 description: I developed an interactive Power BI dashboard that integrated global financial data, offering a clear view of P&L statements and performance across markets, products, and customers, driving more informed decision-making.
 
 ---
