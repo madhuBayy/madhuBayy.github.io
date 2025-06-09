@@ -12,6 +12,7 @@ project-desc: View Project
 project-link: https://github.com/madhuBayy/sql-adhoc-analysis
 client: Start Bootstrap
 category: SQL Data Analysis
+skills: MySQL, Joins, Aggregation functions, Subqueries, Window functions, CTEs
 description: I designed and implemented advanced SQL queries, utilizing subqueries, nested queries, CTEs, and window functions to address a wide range of ad-hoc business intelligence needs. This provided management with timely and actionable data insights, enabling faster, more informed decision-making.
 
 ---
